@@ -1,0 +1,7 @@
+D:\18.11.2288\Calculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+D:\18.11.2288\Calculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+D:\18.11.2288\Calculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+D:\18.11.2288\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+D:\18.11.2288\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\18.11.2288\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+D:\18.11.2288\Calculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
